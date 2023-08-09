@@ -15,6 +15,8 @@ A streamlined Jupyter notebook for statistical analysis is also included.
 
 This is still a developing project; if you have any questions or suggestions, please reach out!
 
+If you are unable to view the .ipynb file, you can view a static copy using [nbviewer](https://nbviewer.org/github/KateBall/Quantitative_Image_Analysis/blob/main/Quantitative_Image_Analysis/Quantitative_Image_Analysis.ipynb)
+
 ## Dependencies
 This notebook works with the following module versions. More recent versions may work, and will be updated as they are tested. Be sure to use the indicated versions of Matplotlib, as Roipoly is not compatible with version 3.7.0. Modules were install with Anaconda unless otherwise indicated.
 
