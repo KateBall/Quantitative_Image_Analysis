@@ -1,6 +1,6 @@
 # Quantitative Image Analysis
 ## Overview
-This Jupyter Notebook is a complete image analysis workflow. It includes optimization steps for common image analysis tasks:
+This Jupyter notebook is a complete image analysis workflow. It includes optimization steps for common image analysis tasks:
 * Grayscale conversion
 * Noise removal
 * Edge/object detection with thresholding and contours
@@ -13,7 +13,7 @@ This notebook also addresses some challenges relevant to biological data:
 
 A streamlined Jupyter notebook for statistical analysis is also included. 
 
-This is still developing project; if you have any questions or suggestions, please reach out!
+This is still a developing project; if you have any questions or suggestions, please reach out!
 
 ## Dependencies
 This notebook works with the following module versions. More recent versions may work, and will be updated as they are tested. Be sure to use the indicated versions of Matplotlib, as Roipoly is not compatible with version 3.7.0. Modules were install with Anaconda unless otherwise indicated.
